@@ -35,3 +35,5 @@ The dataset is imported from Excel or CSV files and cleaned using Power Query be
 -Followed a complete end-to-end workflow: Data → Model → Visualize → Insights
 
 6. Screenshoots / Demos
+
+https://github.com/jaseelmohmd18/HR_Dashboard_project_Power_BI_Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png.png

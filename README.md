@@ -14,8 +14,11 @@ The dashboard helps analyze key business metrics such as sales performance, reve
 The key technologies used to build this dashboard include:
 
 -Microsoft Power BI
+
 -Power Query (M Language) for data transformation
+
 -DAX (Data Analysis Expressions) for calculations and KPIs
+
 -Excel / CSV files as the data source
 
 4. Data Source
@@ -26,12 +29,19 @@ The dataset is imported from Excel or CSV files and cleaned using Power Query be
 5. Features / Highlights
 
 -Cleaned and transformed raw data using Power Query
+
 -Created calculated measures and KPIs using DAX
+
 -Built interactive slicers for dynamic filtering
+
 -Implemented trend analysis using time-based visuals
+
 -Provided category-wise and region-wise performance analysis
+
 -Designed a professional and user-friendly dashboard layout
+
 -Displayed key KPIs such as Total Sales, Profit, and Growth
+
 -Followed a complete end-to-end workflow: Data → Model → Visualize → Insights
 
 6. Screenshoots / Demos
